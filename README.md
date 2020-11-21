@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Statistician (or cool name is Data Scientist) hehew🤩
 - 🌱 I’m currently interest learning about AI, Machine Learning, NLP, build a Website, IoT, and UI/UX!
 - 👯 I’m looking to collaborate about anything!
-- ⚡ Fun fact: I really love to learning something new and need a mentor (haha)😁. I just get bored sometimes 🥱 so I really need to learning a fresh topic and u know I really love travelling and taking a sky photos 
+- ⚡ Fun fact: I really love to learning something new and need a mentor (haha)😁. I just get bored sometimes 🥱 so I really need to learning a fresh topic
+- 💬 Travel, take some sky photos and eat are best combination ever 😋 
