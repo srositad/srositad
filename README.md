@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as Statistician (or cool name is Data Scientist) hehew🤩
-- 🌱 I’m currently interest learning about AI, Machine Learning, NLP, build a Website, IoT, and UI/UX!
+- 🔭 I’m currently working as Data Scientist ~ 
+<!-- - 🌱 Currently interest learning about AI, build a Website, and UI/UX! -->
 - 👯 I’m looking to collaborate about anything!
-- ⚡ Fun fact: I really love to learning something new and need a mentor (haha)😁. I just get bored sometimes 🥱 so I really need to learning a fresh topic
+- ⚡ Fun fact: I really love to learning something new. I just get bored sometimes 🥱 so I really need to learning a fresh topic
 - 💬 Travel, take some sky photos and eat are best combination ever 😋 
