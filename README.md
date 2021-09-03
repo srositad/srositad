@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working as Data Scientist ~ 
-<!-- - 🌱 Currently interest learning about AI, build a Website, and UI/UX! -->
 - 👯 I’m looking to collaborate about anything!
 - ⚡ Fun fact: I really love to learning something new. I just get bored sometimes 🥱 so I really need to learning a fresh topic
 - 💬 Travel, take some sky photos and eat are best combination ever 😋 
+<!-- - 🌱 Currently interest learning about AI, build a Website, and UI/UX! -->
