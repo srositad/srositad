@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as Data Scientist ~ 
 - 👯 I’m looking to collaborate about anything!
-- ⚡ Fun fact: Really love to learning something new. I just get bored sometimes 🥱 so I really need to learning a fresh topic
+- ⚡ Fun fact: Really love to learning something new bout anything!
 - 💬 Travel, take some sky photos and eat are best combination ever 😋 
 - 🌱 Girl in behinds of https://www.mindploring.com and also build a small team on https://www.akademi-ai.com (consultant data science)
