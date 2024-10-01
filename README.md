@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as Data Scientist iykyk pst ~ 
+- 🔭 I’m currently working as Data Scientist/AI Engineer ~ 
 - 👯 I’m looking to collaborate about anything!
 - ⚡ Fun fact: Really love to learning something new bout anything!
 - 💬 Travel, take some rand photos and eat are best combination ever 😋 
