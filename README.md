@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working as Data Scientist/AI Engineer ~ 
 - 👯 I’m looking to collaborate about anything!
 - ⚡ Fun fact: Really love to learning something new bout anything!
 - 💬 Travel, take some rand photos and eat are best combination ever 😋 
+-->
